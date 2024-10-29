@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: azurecurve-floating-featured-image\n"
+"POT-Creation-Date: 2015-04-26 11:34-0000\n"
+"PO-Revision-Date: 2015-04-26 11:36-0000\n"
+"Last-Translator: azurecurve Wordpress Development <wordpressdev@azurecurve."
+"co.uk>\n"
+"Language-Team: azurecurve WordPress Development <wordpress@azurecurve.co."
+"uk>\n"
+"Language: sr_RS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7\n"
+"X-Poedit-Basepath: ..\\\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;sprintf;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: azurecurve-floating-featured-image.php:145
+msgid "Settings"
+msgstr ""
+
+#: azurecurve-floating-featured-image.php:163
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Nemate odgovarajuće dozvole za pristup ovoj stranici."
+
+#: azurecurve-floating-featured-image.php:171
+msgid "azurecurve Floating Featured Image Configuration"
+msgstr "azurecurve Floating Featured Image Konfiguracija"
+
+#: azurecurve-floating-featured-image.php:180
+#: azurecurve-floating-featured-image.php:182
+msgid ""
+"Set the default path for where you will be storing the images; default is to "
+"the plugin/images folder."
+msgstr ""
+"Podesite podrazumevanu putanju do mesta gde ćete čuvati slike; podrazumevani "
+"folder je plugin/slike. "
+
+#: azurecurve-floating-featured-image.php:184
+#, php-format
+msgid ""
+"Use the %s shortcode to place the image in a post or on a page. With the "
+"default stylesheet it will float to the right."
+msgstr ""
+"Koristite %s  shortcode da biste ubacili sliku u post ili na stranicu. Uz "
+"standardnu datoteku sa stilovima, plutaće ka desnoj strani."
+
+#: azurecurve-floating-featured-image.php:186
+#, php-format
+msgid ""
+"Add image attribute to use an image other than the default; %1$s and %2$s "
+"attributes can also be set to override the defaults."
+msgstr ""
+"Dodajte atribut slike da biste koristili sliku koja nije podrazumevana;  "
+"%1$s i %2$s atributi takođe mogu biti podešeni tako da ponište podrazumevane "
+"vrednosti."
+
+#: azurecurve-floating-featured-image.php:188
+#, php-format
+msgid "Add %s attribute to use the tag instead of the category taxonomy."
+msgstr "Dodajte %s atribut za upotrebu oznake umesto kategorije taksonomije."
+
+#: azurecurve-floating-featured-image.php:190
+#, php-format
+msgid ""
+"Add %s attribute to have the image hyperlinked (category will be used if "
+"both are supplied)."
+msgstr ""
+"Dodajte %s atribut da biste imali hiperlink slike (ako postoji i jedno i "
+"drugo, biće upotrebljena kategorija). "
+
+#: azurecurve-floating-featured-image.php:192
+#, php-format
+msgid ""
+"If the default featured image is to be displayed simply add the shortcode to "
+"a page or post.)."
+msgstr ""
+
+#: azurecurve-floating-featured-image.php:198
+msgid "Default Path"
+msgstr "Podrazumevana putanja"
+
+#: azurecurve-floating-featured-image.php:200
+msgid "Set default folder for images"
+msgstr "Podesite podrazumevani folder za slike"
+
+#: azurecurve-floating-featured-image.php:202
+msgid "Default Image"
+msgstr "Podrazumevana slika"
+
+#: azurecurve-floating-featured-image.php:204
+#, php-format
+msgid "Set default image used when no %s attribute set"
+msgstr "Podesi podrazumevanu sliku kad nije podešen %s atribut"
+
+#: azurecurve-floating-featured-image.php:206
+msgid "Default Title"
+msgstr "Podrazumevani naslov"
+
+#: azurecurve-floating-featured-image.php:208
+msgid "Set default title for image"
+msgstr "Podesi podrazumevani naslov za sliku"
+
+#: azurecurve-floating-featured-image.php:210
+msgid "Default Alt"
+msgstr "Podrazumevani Alt"
+
+#: azurecurve-floating-featured-image.php:212
+#, php-format
+msgid "Set default %s text for image"
+msgstr "Podesi podrazumevani %s tekst za sliku"
+
+#: azurecurve-floating-featured-image.php:214
+msgid "Default Taxonomy Is Tag"
+msgstr "Podrazumevana taksonomija je oznaka"
+
+#: azurecurve-floating-featured-image.php:216
+msgid "Default Taxonomy Is Tag?"
+msgstr "Podrazumevana taksonomija je oznaka?"
+
+#: azurecurve-floating-featured-image.php:219
+msgid "Default Taxonomy"
+msgstr "Podrazumevana taksonomija"
+
+#: azurecurve-floating-featured-image.php:221
+msgid ""
+"Set default taxonomy to hyperlink image (default is to use category unless "
+"Is Tag is marked)"
+msgstr ""
+"Podesite podrazumevanu taksonomiju za hiperlink sa slikom (podrazumevano "
+"koristi kategoriju, osim ako je obeležena oznaka)"
+
+#: azurecurve-floating-featured-image.php:238
+msgid "You do not have permissions to perform this action."
+msgstr "Nemate dozvole za izvođenje ove aktivnosti."
+
+#: azurecurve-floating-featured-image.php:194
+#, php-format
+msgid ""
+"When overriding the default add the parameters to the shortcode; e.g. %s"
+msgstr ""
